@@ -7,4 +7,4 @@ LINKS
 
 - GITHUB PAGES: https://lauraadan.github.io/cart-with-Jest/
 
--  GITHUB: https://github.com/lauraadan/cart-with-Jest
+- GITHUB: https://github.com/lauraadan/cart-with-Jest
